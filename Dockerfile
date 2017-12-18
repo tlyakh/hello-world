@@ -1,3 +1,2 @@
-FROM ubuntu
-RUN echo "Hello World - Dockerfile"
-CMD [cat llo]
+FROM alpine
+CMD echo "Hello World - Dockerfile"
