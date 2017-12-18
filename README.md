@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-It's readme for hello word.
+It's readme for hello world.
