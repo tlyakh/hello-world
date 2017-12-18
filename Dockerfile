@@ -1,3 +1,3 @@
-FROM tlyakh1/hello-world
+FROM ubuntu
 RUN echo "Hello World - Dockerfile"
 CMD [cat llo]
