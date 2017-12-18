@@ -1,3 +1,3 @@
-FROM tlyakh/hello-world
+FROM tlyakh1/hello-world
 RUN echo "Hello World - Dockerfile"
-CMD [«/usr/bin/hello-world»]
+CMD [cat llo]
