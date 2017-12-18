@@ -1,3 +1,5 @@
+language: java
+script: ant -buildfile ./project-hw/build.xml run
 services:
   - docker
 before_install:
